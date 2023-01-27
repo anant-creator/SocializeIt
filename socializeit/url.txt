@@ -1,0 +1,3 @@
+project backend deployed at - https://socializeit.sanity.studio/
+sanity start - dashboard
+sanity manage - account manager for access control account info api settings etc. 
